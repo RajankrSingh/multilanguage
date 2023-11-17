@@ -1,0 +1,13 @@
+{
+    "form": {
+        "job":"Apply for a job",
+      "name": "name",
+      "email": "email",
+      "city": "city",
+      "mobile": "mobile no.",
+      "address":"address",
+      "date":"date",
+      "desc":"description",
+      "description":"Find your dream job in various ITI trades, including Electrician, Machine Operator, Turner, Fitter, Welder, and more."
+        }
+  }
